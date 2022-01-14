@@ -12,7 +12,7 @@ https://milenamarlim.github.io/Formulario-Responsivo/
 💬 Meu maior aprendizado nesse projeto:
 
 * Inputs de um formulário 
-* Responsividade
+* Design Responsivo: Media Queries
 
 ## 🚀 Linguagens utilizadas:
 
